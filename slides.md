@@ -17,10 +17,10 @@ themeConfig:
 
 ---
 
-<img src="/vgblanco.png/" class="abs-tr w-40">
+<img src="/vgblanco.png" class="abs-tr w-40">
 
 <div class="w-60 mx-auto rounded-full overflow-hidden shadow-lg">
-  <img src="/logowhite.png/">
+  <img src="/logowhite.png">
 </div>
 
 
@@ -52,12 +52,12 @@ layout: default
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 # CyberSecure Solutions
 
 <div class="w-60 mx-auto rounded-full overflow-hidden shadow-lg">
-  <img src="/logowhite.png/">
+  <img src="/logowhite.png">
 </div>
 
 
@@ -78,7 +78,7 @@ layout: image-left
 image: https://roadmap2050.report/static/files/photo-building.jpg
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 ## Historia de CyberSecure Solutions
 
@@ -95,7 +95,7 @@ layout: image-left
 image: https://st4.depositphotos.com/2673929/38281/i/450/depositphotos_382819638-stock-photo-corner-stylish-panoramic-open-space.jpg
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 ## Servicios de CyberSecure Solutions
 
@@ -116,7 +116,7 @@ transition: slide-left
 layout: quote
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 ## Visión y Misión de CyberSecure Solutions
 
@@ -141,7 +141,7 @@ _Nuestra misión es..._ *Ayudar a las organizaciones a una navegación de intern
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 ## Identificación de la problemática
 
@@ -167,7 +167,7 @@ transition: slide-left
 layout: center
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 ## Producto o Servicio
 
@@ -188,7 +188,7 @@ Nuestra propuesta para el Hotel Sheraton engloba:
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 ## Solución
 
@@ -212,7 +212,7 @@ transition: slide-left
 layout: center
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 ## Objetivo General
 
@@ -222,7 +222,7 @@ Nuestro propósito es asegurar que el Hotel Sheraton refuerce su infraestructura
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 ## Objetivos Específicos 
 
@@ -248,7 +248,7 @@ transition: slide-left
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 # Estudios de Factibilidad
 
@@ -267,7 +267,7 @@ Durante la fase de ejecución, efectuaremos pruebas exhaustivas para comprobar l
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 # Estudios de Factibilidad
 
@@ -286,7 +286,7 @@ Las evaluaciones iniciales indican que las soluciones propuestas no ocasionarán
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 # Estudios de Factibilidad
 
@@ -307,7 +307,7 @@ Tomando en cuenta esta economía y la inversión inicial, la recuperación del c
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 ## Marco Teórico
 
@@ -332,7 +332,7 @@ Vital para salvaguardar información sensible de los huéspedes. Una brecha en l
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 ## Marco Teórico
 
@@ -352,20 +352,20 @@ Definir objetivos, diseñar un cronograma y asignar recursos son pasos fundament
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 
 # Planificación de Proyectos - Gantt Chart
 
 <div class="w-180 mx-auto overflow-hidden">
-  <img src="/chart.png/">
+  <img src="/chart.png">
 </div>
 
 ---
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 
 # Planificación de Proyectos - Tabla de Recursos
@@ -385,7 +385,7 @@ transition: slide-left
 transition: slide-left
 ---
 
-<img src="/vgcolor.png/" class="abs-tr w-40">
+<img src="/vgcolor.png" class="abs-tr w-40">
 
 # Bibliografía
 
